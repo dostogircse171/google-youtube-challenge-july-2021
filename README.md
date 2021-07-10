@@ -50,3 +50,5 @@ python3 -m pytest test/part4_test.py
 
 For more information on pytest commandline options, such as only running a specific test,
 you can read more [here](https://docs.pytest.org/en/6.2.x/usage.html#).
+
+**Please red the pdf for more details.
